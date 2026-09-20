@@ -49,6 +49,12 @@ If you run the same prompt through N agents and want a number for "are they prod
 python -m pip install agent-convergence-scorer
 ```
 
+Or install the CLI from the [Hermes Labs Homebrew tap](https://github.com/hermes-labs-ai/homebrew-tap):
+
+```bash
+brew install hermes-labs-ai/tap/agent-convergence-scorer
+```
+
 Python 3.9+. Zero runtime dependencies (stdlib only).
 
 Confirm the install and see which version is active:
